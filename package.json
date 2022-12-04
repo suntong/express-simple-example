@@ -1,0 +1,23 @@
+{
+  "name": "express-simple-example",
+  "version": "1.0.0",
+  "description": "express simple example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suntong/express-simple-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suntong/express-simple-example/issues"
+  },
+  "homepage": "https://github.com/suntong/express-simple-example#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
